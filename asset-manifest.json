@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Piano/static/css/main.8b6bd43e.css",
+    "main.js": "/React-Piano/static/js/main.0c8e6188.js",
+    "index.html": "/React-Piano/index.html",
+    "main.8b6bd43e.css.map": "/React-Piano/static/css/main.8b6bd43e.css.map",
+    "main.0c8e6188.js.map": "/React-Piano/static/js/main.0c8e6188.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b6bd43e.css",
+    "static/js/main.0c8e6188.js"
+  ]
+}
